@@ -1,0 +1,25 @@
+
+@import "Profile.scss";
+
+body{
+    background: linear-gradient(black 0%, #1f1e1e 7%,#1f1e1e 93%, black  ) !important ;
+ 
+}
+
+@media screen and (min-width :992px) {
+   body{ background: linear-gradient(black 0%,#1f1e1e 40%, black 100% ) !important ;
+   }
+   .footer{
+    width: 50% !important;
+    font-size: 1.2em;
+   }
+   .hiddenBar{
+    // visibility: visible !important;
+    display: flex !important;
+   }
+}
+
+.ulColor{
+    background-color: rgb(94, 90, 90);
+    color: black;   
+}

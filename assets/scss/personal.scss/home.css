@@ -1,0 +1,101 @@
+body {
+  background: linear-gradient(black 0%, #1f1e1e 20%, #1f1e1e 40%, black 100%) !important;
+}
+
+@media screen and (min-width: 500px) {
+  .right-column {
+    height: 500px !important;
+  }
+}
+.right-column {
+  height: 55vh !important;
+}
+
+@media screen and (min-width: 992px) {
+  .hr {
+    width: 70% !important;
+  }
+  .hr2 {
+    width: 90% !important;
+  }
+  .hr3 {
+    width: 50% !important;
+  }
+  .hh {
+    height: 130px !important;
+  }
+  .container1 {
+    width: 80% !important;
+  }
+  .finalButtons {
+    width: 100%;
+  }
+}
+.language {
+  width: 80px !important;
+  font-size: 0.8rem !important;
+}
+
+.strive {
+  width: 300px !important;
+}
+
+.check {
+  border: 1px solid grey;
+  background-color: rgb(0, 0, 0);
+}
+
+.box-shadow1 {
+  box-shadow: 1px 1px 6px 2px #0a0909 !important;
+}
+
+.fs-7 {
+  font-size: 0.9rem;
+}
+
+.fs-8 {
+  font-size: 0.8rem;
+}
+
+.fs-9 {
+  font-size: 0.7rem;
+}
+
+.fs-10 {
+  font-size: 0.6rem;
+}
+
+.fs-11 {
+  font-size: 0.5rem;
+}
+
+.pencil {
+  bottom: 10px !important;
+  left: 10px !important;
+  background-color: black !important;
+  border-radius: 50px !important;
+  height: 30px !important;
+  width: 30px !important;
+  border: 2px solid white !important;
+}
+
+body {
+  background: linear-gradient(black 0%, #1f1e1e 7%, #1f1e1e 93%, black) !important;
+}
+
+@media screen and (min-width: 992px) {
+  body {
+    background: linear-gradient(black 0%, #1f1e1e 40%, black 100%) !important;
+  }
+  .footer {
+    width: 50% !important;
+    font-size: 1.2em;
+  }
+  .hiddenBar {
+    display: flex !important;
+  }
+}
+.ulColor {
+  background-color: rgb(94, 90, 90);
+  color: black;
+}/*# sourceMappingURL=home.css.map */

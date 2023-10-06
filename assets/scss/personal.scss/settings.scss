@@ -1,0 +1,17 @@
+@import "Profile.scss";
+body{
+    background: none !important;
+}
+
+@media screen and (min-width :992px) {
+    
+
+    .hiddenBar{
+     // visibility: visible !important;
+     display: flex !important;
+    }
+ }
+
+ .container1{
+    width: 70%
+ }
